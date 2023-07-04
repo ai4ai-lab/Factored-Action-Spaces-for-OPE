@@ -1,0 +1,18 @@
+{
+	"up,right": {
+		"horizontal": "right",
+		"vertical": "up"
+	},
+	"up,left": {
+		"horizontal": "left",
+		"vertical": "up"
+	},
+	"down,right": {
+		"horizontal": "right",
+		"vertical": "down"
+	},
+	"down,left": {
+		"horizontal": "left",
+		"vertical": "down"
+	}
+}

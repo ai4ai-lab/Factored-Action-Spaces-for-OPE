@@ -1,0 +1,5 @@
+state,action,probability
+"?,0","up",0.6
+"?,0","down",0.4
+"?,1","up",0.6
+"?,1","down",0.4

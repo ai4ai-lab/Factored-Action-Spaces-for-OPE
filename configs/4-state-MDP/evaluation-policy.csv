@@ -1,0 +1,17 @@
+state,action,probability
+"0,0","up,right",0.36
+"0,0","up,left",0.24
+"0,0","down,right",0.24
+"0,0","down,left",0.16
+"0,1","up,right",0.36
+"0,1","up,left",0.24
+"0,1","down,right",0.24
+"0,1","down,left",0.16
+"1,0","up,right",0.36
+"1,0","up,left",0.24
+"1,0","down,right",0.24
+"1,0","down,left",0.16
+"1,1","up,right",0.36
+"1,1","up,left",0.24
+"1,1","down,right",0.24
+"1,1","down,left",0.16

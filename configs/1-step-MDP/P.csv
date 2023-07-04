@@ -1,0 +1,5 @@
+state,action,next_state,probability
+"state","up,right","terminal",1
+"state","up,left","terminal",1
+"state","down,right","terminal",1
+"state","down,left","terminal",1

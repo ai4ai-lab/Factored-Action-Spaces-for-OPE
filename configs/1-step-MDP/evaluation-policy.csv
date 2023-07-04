@@ -1,0 +1,5 @@
+state,action,probability
+"state","up,right",0.36
+"state","up,left",0.24
+"state","down,right",0.24
+"state","down,left",0.16

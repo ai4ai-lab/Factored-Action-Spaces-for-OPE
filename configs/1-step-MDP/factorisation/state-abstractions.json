@@ -1,0 +1,10 @@
+{
+	"horizontal":{
+		"state": ["state"],
+		"terminal": ["terminal"]
+	},
+	"vertical":{
+		"state": ["state"],
+		"terminal": ["terminal"]
+	}
+}
